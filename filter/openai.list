@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX, openai.com
-DOMAIN, cdn.auth0.com
-DOMAIN, openaiapi-site.azureedge.net
-
+# NAME: openai
+HOST-SUFFIX,openai.com,openai
+HOST-SUFFIX,ai.com,openai
+HOST-SUFFIX,challenges.cloudflare.com,openai
